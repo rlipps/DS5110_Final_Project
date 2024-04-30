@@ -13,7 +13,7 @@ This project explores the potential of various data systems for implementing mac
 ### Link to dataset:
 https://www.kaggle.com/datasets/dilwong/flightprices
 
-We subset and clean this data further in code/notebooks/...
+We subset and clean this data further in code/notebooks/Final_Data_Cleaning.ipynb
 
 ### Link to presentation:
 https://drive.google.com/file/d/1A9o7MDaDPks_SJzND7uMLERy8NmXb8l8/view
